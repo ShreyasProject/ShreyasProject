@@ -1,126 +1,148 @@
-Hi 👋, I'm Shreyas Thombal
+# Hi 👋, I'm Shreyas Thombal
 
-Computer Engineering Student | AI-Driven Full Stack & Backend Developer | MERN Stack | DSA
+Final Year Computer Engineering Student | AI-Driven Full-Stack & Backend Developer | DSA Enthusiast
 
-profile-views
+---
 
-🚀 About Me
+## 🚀 About Me
 
-🎓 Computer Engineering undergraduate at Vishwakarma Institute of Information Technology, Pune (2022–2026)
-💻 AI-driven Full Stack & Backend Developer with strong foundations in Python, Node.js, REST APIs, SQL/NoSQL
-🤖 Experienced in LLM integrations, Agentic AI, and Generative AI–powered applications
-⚙️ Passionate about backend engineering, scalable system design, and rapid prototyping
-📚 Constantly exploring DSA, system design, cloud computing, and AI-assisted automation
+🎓 Final-year B.Tech Computer Engineering student at **Vishwakarma Institute of Information Technology (VIIT), Pune**
+💻 Passionate about **Backend Engineering, Full-Stack Development (MERN)**, and **AI-powered applications**
+🤖 Experienced in building **LLM-integrated platforms**, AI automation features, and scalable REST APIs
+📚 Actively exploring **System Design, Agentic AI, and GenAI-assisted development**
+⚡ Strong problem-solver with a startup-oriented mindset and rapid prototyping skills
 
-🛠️ Tech Stack & Tools
-💻 Languages
+---
 
-Python
+## 🛠️ Tech Stack & Tools
 
-JavaScript
+### 💻 Languages
 
-🌐 Web Development
+* Python
+* JavaScript
+* SQL
 
-Node.js
+### 🌐 Web Development
 
-Express.js
+* Node.js
+* Express.js
+* React.js
+* REST APIs
+* Tailwind CSS
+* Flask (Beginner)
+* Django (Beginner)
 
-React.js
+### 🗄️ Databases
 
-REST APIs
+* MongoDB
+* MySQL
+* PostgreSQL
+* NoSQL
 
-Tailwind CSS
+### ☁️ Cloud & DevOps
 
-🗄️ Databases
+* AWS (EC2, S3, Lambda, IAM)
 
-MongoDB
+### 🔧 Tools & Platforms
 
-MySQL
+* Git & GitHub
+* Postman
+* IBM Watson GenAI API
 
-PostgreSQL
+---
 
-🔧 Tools & Platforms
+## 📚 Core CS Subjects
 
-AWS (EC2, S3, Lambda, IAM)
+* Data Structures & Algorithms (DSA)
+* Operating Systems
+* DBMS / SQL
+* Computer Networks
 
-Git & GitHub
+---
 
-Postman
+## 🚀 Featured Projects
 
-IBM Watson GenAI API
+### 🤖 JobPrepare – AI-Driven Interview & Learning Platform
 
-🤖 AI & GenAI
+**(Oct 2025 – Present)**
 
-Agentic AI
+An AI-powered interview preparation platform that simulates real interview environments using **Agentic AI**.
 
-Large Language Models (LLMs)
+**🧩 Tech Stack:** MERN Stack • IBM Watson GenAI API
 
-Prompt Engineering
+**⚙️ Key Features:**
 
-Generative AI Integrations
+* Generates **100+ context-aware interview questions**, summaries, and feedback using GenAI
+* Agentic AI dynamically adjusts question difficulty by **20%** based on user performance metrics
+* Personalized interview simulations with adaptive learning logic
 
-📚 Core CS
+**🏆 Impact:** Enhances interview readiness with intelligent, adaptive feedback loops
 
-Data Structures & Algorithms (DSA)
+---
 
-Operating Systems
+### 📚 StudyNotion – AI-Powered EdTech Platform
 
-DBMS / SQL
+**(Jan 2025 – Feb 2025)**
 
-Backend Architecture
+A full-stack e-learning platform enabling content creation, learning, and AI-driven assessments.
 
-🚀 Featured Projects
-🧠 JobPrepare – AI-Driven Interview & Learning Platform (Ongoing)
+**🧩 Tech Stack:** MERN Stack • Tailwind CSS • IBM Watson GenAI API
 
-An intelligent interview preparation platform simulating real interview environments using Agentic AI.
+**⚙️ Key Features:**
 
-🔧 Tech Stack: MERN Stack • IBM Watson GenAI API
-⚙️ Key Features:
+* AI Quiz Generator producing **5–10 questions per request**, improving practice efficiency by **40%**
+* AI Roadmap Engine creating personalized learning paths in under **5 seconds**
+* Frontend performance optimizations reducing page load time by **35%**
 
-AI-generated 100+ context-aware interview questions, summaries & feedback
+---
 
-Agentic AI logic that dynamically adjusts difficulty (~20%) based on accuracy, response time & confidence
+### 💰 WealthWise – Smart Financial Planner
 
-Real-time interview simulation for technical preparation
+**(Oct 2024 – Nov 2024)**
 
-🏆 Impact: Improves interview readiness with adaptive AI-driven learning
+An AI-assisted personal finance management system with intelligent insights and goal tracking.
 
-📘 StudyNotion – AI-Powered EdTech Platform
+**🧩 Tech Stack:** MERN Stack • MongoDB • REST APIs • Tailwind CSS
 
-A full-stack MERN e-learning platform enhanced with AI-based personalization.
+**⚙️ Key Features:**
 
-🔧 Tech Stack: MERN Stack • Tailwind • IBM Watson GenAI API
-⚙️ Key Features:
+* Tracks income & expenses with AI-powered insights on spending patterns
+* AI Goal-Setting Engine predicts goal completion timelines and provides personalized suggestions
+* Optimized dashboards improving UI performance by **20%**
 
-AI Quiz Generator creating 5–10 questions per request
+---
 
-AI Roadmap Engine generating personalized learning paths under 5 seconds
+## 🎓 Education
 
-Frontend optimizations using React.lazy & memoization, reducing load time by 35%
-
-🏆 Outcome: Enhanced learning efficiency and performance at scale
-
-💰 WealthWise – Smart Financial Planner
-
-An AI-assisted financial planning dashboard for expense tracking and goal prediction.
-
-🔧 Tech Stack: MERN • MongoDB • REST APIs • Tailwind
-⚙️ Key Features:
-
-AI-powered insights on spending trends & income sources
-
-Goal prediction engine with personalized financial recommendations
-
-Optimized dashboard performance improving UI load time by 20%
-
-🎓 Education
-
-🎓 B.Tech in Computer Engineering
+🎓 **B.Tech in Computer Engineering**
 Vishwakarma Institute of Information Technology, Pune
-CGPA: 8.51 / 10
+CGPA: **8.3 / 10**
+(2022 – 2026)
 
-🏫 HSC (2022) – Karmaveer Bhaurao Patil College, Pandharpur
-Grade: 86.70%
+🏫 **Higher Secondary Certificate (HSC)**
+Karmaveer Bhaurao Patil Jr College, Pandharpur
+Grade: **86.70%**
 
-🏫 SSC (2020) – Sinhgad Public School, Pandharpur
-Grade: 90.00%
+🏫 **Secondary School Certificate (SSC)**
+Sinhgad Public School, Pandharpur
+Grade: **90.00%**
+
+---
+
+## 🏅 Certifications
+
+🎖️ AICTE Virtual Internship – AWS
+🎖️ IBM Full Stack Software Developer Professional Certificate (Coursera)
+🎖️ C++ Certification – Infosys Springboard
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **[s2nthombal77204@gmail.com](mailto:s2nthombal77204@gmail.com)**
+📍 Pune, Maharashtra, India
+💼 Open to **Backend / Full-Stack / AI Internships & Entry-Level Roles**
+
+---
+
+⭐ *If you like my work, feel free to star my repositories and connect!*
