@@ -109,7 +109,7 @@
 
 - 🎓 **B.Tech in Computer Engineering**  
   Vishwakarma Institute of Information Technology, Pune  
-  - **CGPA:** 8.3 / 10  
+  - **CGPA:** 8.51 / 10  
   - **Duration:** 2022 – 2026  
 
 - 🏫 **HSC – Karmaveer Bhaurao Patil Jr College, Pandharpur**  
@@ -117,30 +117,6 @@
 
 - 🏫 **SSC – Sinhgad Public School, Pandharpur**  
   - **Grade:** 90.00%  
-
----
-
-## 🏅 Certifications
-
-- 🎖️ **AICTE Virtual Internship – AWS**
-- 🎖️ **IBM Full Stack Software Developer Professional Certificate**
-- 🎖️ **C++ – Infosys Springboard**
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreyasThombal&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShreyasThombal" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasThombal&layout=compact" />
-</p>
 
 ---
 
